@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/create-invoice.js": {
+      "runtime": "@vercel/node@3"
+    }
+  }
+}
